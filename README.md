@@ -1,4 +1,6 @@
-# Example app for CI Hexlet course
+# Example app for CI Hexlet course  
+
+[![Actions Status](https://github.com/RedGradient/hexlet-ci-app/workflows/build/badge.svg)](https://github.com/RedGradient/hexlet-ci-app/actions)
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
